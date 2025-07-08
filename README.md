@@ -1,1 +1,2 @@
 # Smart-Classroom-Occupancy-Engagement-Detector
+this project invlolves the use of a camera to detect the occupancy of a classroom and the engagement of the students in the classroom. The project is built using the OpenCV library and the Python programming language.
